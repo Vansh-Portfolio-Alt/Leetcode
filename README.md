@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/0002-add-two-numbers) |
+| [3270-find-the-key-of-the-numbers](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/3270-find-the-key-of-the-numbers) |
 ## Recursion
 |  |
 | ------- |
