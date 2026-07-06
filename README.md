@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/0915-partition-array-into-disjoint-intervals) |
+| [2012-sum-of-beauty-in-the-array](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/2012-sum-of-beauty-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
