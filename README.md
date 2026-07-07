@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/0915-partition-array-into-disjoint-intervals) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Binary Search
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+## Hash Table
+|  |
+| ------- |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+## Prefix Sum
+|  |
+| ------- |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 <!---LeetCode Topics End-->
