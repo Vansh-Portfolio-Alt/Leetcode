@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/0001-two-sum) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Prefix Sum
 |  |
