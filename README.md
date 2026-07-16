@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/0002-add-two-numbers) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [3270-find-the-key-of-the-numbers](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/3270-find-the-key-of-the-numbers) |
 ## Recursion
 |  |
@@ -49,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+## Brainteaser
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
