@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/0002-add-two-numbers) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [3270-find-the-key-of-the-numbers](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/3270-find-the-key-of-the-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
