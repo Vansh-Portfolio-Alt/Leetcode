@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/0001-two-sum) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Counting
+|  |
+| ------- |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/Vansh-Portfolio-Alt/Leetcode/tree/master/3852-smallest-pair-with-different-frequencies) |
 <!---LeetCode Topics End-->
